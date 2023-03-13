@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter, RouterProvider } from 'react-router-dom';
 
-const router = createBrowserRouter([{ path: "/", element: <div>Test page</div> }]);
+const router = createBrowserRouter(<App/>);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(  
   <React.StrictMode>    
