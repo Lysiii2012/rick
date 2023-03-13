@@ -2,7 +2,7 @@
   "name": "rick_marty",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lysiii2012.github.io/Lysiii2012-rick__morty/",
+  "homepage": "https://lysiii2012.github.io/rick-morty/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
